@@ -1,6 +1,6 @@
 # Contact_Manager
 
-#Title of the Project: Android Contact Manager
+# Title of the Project: Android Contact Manager
 
 1.	Purpose 
 The purpose of this document is to specify the requirements and preview some elements of the analysis model of the program CONTACT MANAGER APP.
@@ -40,7 +40,7 @@ The tester needs this document to validate that the initial requirements of this
 With the continuous development in Science and Technology, mobile is no longer just a device used for communication but a management of contacts platform that provides the ability to choose contact. Choosing the contact , calling ,messaging, add any event in calendar for a person, email, search location of particular address, update, delete,insert formats are done in this application. Present scenario for Contact Manager provide support for some calling , messaging format and recently facilities for providing the subtitles is included in the existing system. 
 
 
-#SOFTWARE  REQUIREMENT
+# SOFTWARE  REQUIREMENT
 
 FRONT END:- 
 1.	Android Studio- Android studio is a sftare development kit for developing Android projects. It supports languages like Java, XML, CSS and many more. Google recently has published officialy that Cotlin wi be the official language for Android Studio replacing Java from the platform.
@@ -51,12 +51,10 @@ b.	Accessing permissions.
 c.	Adding components to activities.
 
 
-Description Of Project
+#Description Of Project
 
 The contact manager app is a combination of various categories of features involved that can be performed on the contact list and the list of contacts .
-
- Basic Features of the Contact Manager App
-(CRUD Operations):
+Basic Features of the Contact Manager App (CRUD Operations):
 
 1.)	Add new contact details or choose name and phone number of  person from your contact list and then further add other details.
 
@@ -67,19 +65,7 @@ The contact manager app is a combination of various categories of features invol
 4.)	Delete either all or a particular contact.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-STEP BY WORKING OF APPLICATION
+# STEP BY WORKING OF APPLICATION
 
 1.)	When the user opens the application the front activity consists  of the Basic Activity which consists of the temporary front page, which disappears after adding a contact to the contact list.
 2.)	It also consists of the Action Bar having menu items : Insert dummy data(which fills up the default data each time) and delete all contacts option.
@@ -87,41 +73,9 @@ STEP BY WORKING OF APPLICATION
 4.)	The next activity is the Empty Activity which contains the TextViews , EditTexts , Spinners in which details of person are to be filled . 
 5.)	This activity also consists of  Choose From Contacts Button which allows the user a choice to pick the particular contact name and contact number from the phone already existing contact list. And it automatically fills up for the chosen contact .
 6.)	The Action Bar consists of the menu items:
-•	Call Number
-•	Send Message
-•	Send mail
-•	Add Event
-•	Search Location
-•	Delete Contact
-
-1.)	Call Number: As the user selects this item, the saved contact number of the person will automatically shift to the Call Activity with the filled dialpad with the specified phone number.
-2.)	Send Message: As the user selects this item, the saved contact number will shift directly to the Message Activity with filled phone number  and by adding content of message by choice the message can be sent.
-3.)	Send Mail: As the user selects this item, the saved contact email id get automatically filled into the Gmail Compose Mail Activity along with the user filled id (i.e., TO and FROM are prefilled).
-4.)	Search Location : This menu item locates user to the filled location for its direction by having an access to the gps and network connection in Google Maps Activity. 
-5.)	Add Event: This menu item is used to have the reminder service or adding any event for the saved person by shifting to Event Activity. The user have a choice to add the reminder time limit and the date limit of its choice. Also the addition of timing to be added for the event to remind before the event is supposed to happen.
-6.)	Delete Contact : This menu item deletes a particular record and then shifts back to the main Contact List Activity.
-
-                     
-
-                     
-   
-
-                         
-
-                          
-
-                      
-
-         
-                            
-   
-                          
-
-            
-
-                         
-
-                                       
-
-
-
+a.)	Call Number: As the user selects this item, the saved contact number of the person will automatically shift to the Call Activity with the filled dialpad with the specified phone number.
+b.)	Send Message: As the user selects this item, the saved contact number will shift directly to the Message Activity with filled phone number  and by adding content of message by choice the message can be sent.
+c.)	Send Mail: As the user selects this item, the saved contact email id get automatically filled into the Gmail Compose Mail Activity along with the user filled id (i.e., TO and FROM are prefilled).
+d.)	Search Location : This menu item locates user to the filled location for its direction by having an access to the gps and network connection in Google Maps Activity. 
+e.)	Add Event: This menu item is used to have the reminder service or adding any event for the saved person by shifting to Event Activity. The user have a choice to add the reminder time limit and the date limit of its choice. Also the addition of timing to be added for the event to remind before the event is supposed to happen.
+f.)	Delete Contact : This menu item deletes a particular record and then shifts back to the main Contact List Activity.
