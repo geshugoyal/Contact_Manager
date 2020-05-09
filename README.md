@@ -1,6 +1,5 @@
-# Contact_Manager
-
-# Title of the Project: Android Contact Manager
+# Contact Manager
+# Java Android Application
 
 1.	Purpose 
 The purpose of this document is to specify the requirements and preview some elements of the analysis model of the program CONTACT MANAGER APP.
