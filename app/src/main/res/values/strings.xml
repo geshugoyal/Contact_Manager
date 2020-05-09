@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CONTACT MANAGER</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="category_gender">Gender</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_call">Call number</string>
+    <string name="category_overview">Overview</string>
+    <string name="gender_male">male</string>
+    <string name="gender_female">female</string>
+    <string name="action_insert_dummy_data">Insert dummy data</string>
+    <string name="action_delete_all_entries">Delete all</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding a contact</string>
+    <string name="unknown_relation">Unsaved Phone no</string>
+    <string name="editor_activity_title_new_person">Add a Contact</string>
+    <string name="editor_activity_title_edit_person">Edit Contact</string>
+    <string name="editor_delete_person_successful">Contact deleted</string>
+    <string name="editor_delete_person_failed">Error with deleting contact</string>
+    <string name="editor_insert_person_successful">Contact saved</string>
+    <string name="editor_insert_person_failed">Error with saving contact</string>
+    <string name="editor_update_person_successful">Contact updated</string>
+    <string name="editor_update_person_failed">Error with updating contact</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this contact?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_choose">Choose from contacts</string>
+    <string name="delete_dialog_multimsg">Do you really want to delete all contacts?</string>
+    <string name="editor_insert_person_phone">Invalid phone number</string>
+    <string name="unknown_number">unknown number</string>
+
+
+</resources>
