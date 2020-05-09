@@ -68,16 +68,27 @@ Basic Features of the Contact Manager App (CRUD Operations):
 # STEP BY WORKING OF APPLICATION
 
 1.)	When the user opens the application the front activity consists  of the Basic Activity which consists of the temporary front page, which disappears after adding a contact to the contact list.
+
 2.)	It also consists of the Action Bar having menu items : Insert dummy data(which fills up the default data each time) and delete all contacts option.
+
 3.)	It also consists of the Floating Action Button at the bottom of screen which directs to add new contact details activity.
+
 4.)	The next activity is the Empty Activity which contains the TextViews , EditTexts , Spinners in which details of person are to be filled . 
+
 5.)	This activity also consists of  Choose From Contacts Button which allows the user a choice to pick the particular contact name and contact number from the phone already existing contact list. And it automatically fills up for the chosen contact .
+
 6.)	The Action Bar consists of the menu items:
+
 a.)	Call Number: As the user selects this item, the saved contact number of the person will automatically shift to the Call Activity with the filled dialpad with the specified phone number.
+
 b.)	Send Message: As the user selects this item, the saved contact number will shift directly to the Message Activity with filled phone number  and by adding content of message by choice the message can be sent.
+
 c.)	Send Mail: As the user selects this item, the saved contact email id get automatically filled into the Gmail Compose Mail Activity along with the user filled id (i.e., TO and FROM are prefilled).
+
 d.)	Search Location : This menu item locates user to the filled location for its direction by having an access to the gps and network connection in Google Maps Activity. 
+
 e.)	Add Event: This menu item is used to have the reminder service or adding any event for the saved person by shifting to Event Activity. The user have a choice to add the reminder time limit and the date limit of its choice. Also the addition of timing to be added for the event to remind before the event is supposed to happen.
+
 f.)	Delete Contact : This menu item deletes a particular record and then shifts back to the main Contact List Activity.
 
 # Project Screenshots
