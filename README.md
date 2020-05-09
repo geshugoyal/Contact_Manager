@@ -12,33 +12,37 @@ Contact Manager app is a simple application which consists of four programs:
 •	Contact Activity.
 •	AndroidBuilding Contact Manager Activity.
 
-a.	ContactManager:
-It is a class named as ContactMangaer.java and this program is written to fetch all the music tracks in the android device.
+ a.	ContactManager:
+ It is a class named as ContactMangaer.java and this program is written to fetch all the music tracks in the android device.
 
-b.	ContactListActivity:
-It is an Activity named as ContactListActivity.java and this program is written to form another screen in the app and displays all the audio tracks on the android device in the form of aa list.
-c.	AndroidBuilding ContactdbHelper Activity:
-It is an Activity named as AndroidBuilding ContactdbHelper.java and is used to form the basic layout of the main screen of the app and to do the intended operations as the choice of the user.
-d.	Utilities:
-It is a java class named as Utilities.java and is used for providing extra utilities like conversion of time into seconds and milliseconds format for the seek bar.
+ b.	ContactListActivity:
+ It is an Activity named as ContactListActivity.java and this program is written to form another screen in the app and displays all the   audio tracks on the android device in the form of aa list.
 
-Requirements Specification
+ c.	AndroidBuilding ContactdbHelper Activity:
+ It is an Activity named as AndroidBuilding ContactdbHelper.java and is used to form the basic layout of the main screen of the app and   to do the intended operations as the choice of the user.
 
-•	Latest Android Studio Canary Build: 1.4 Beta 4
-•	SDK  tool
+ d.	Utilities:
+ It is a java class named as Utilities.java and is used for providing extra utilities like conversion of time into seconds and            milliseconds format for the seek bar.
+
+ Requirements Specification
+
+ •	Latest Android Studio Canary Build: 1.4 Beta 4
+ •	SDK  tool
 
 2.	Document Conventions
  In general, this document prioritizes in writing the schema of the fetching the *data from Android device about the audio tracks mechanism that takes hold in this project and then analyzing in detail the tools that are available in the Contact Manager App. Therefore, there are lots of abstractions to represent in a more convenient way the objects and their behaviour on the system. Every requirement statement is assumed to have its own priority as to define in most appropriate way the system behaviour.
+ 
 3.	 Intended Audience
 This document is intended for any individual user, developer, tester, or documentation writer that needs to understand the basic system architecture and its specifications. Here are the potential uses for each one of the reader types:
-•	Developer:
-The developer who wants to create, read, change, modify or add new requirements into the existing program, must first consult this document and update the requirements with appropriate manner so as to not destroy the actual meaning of them and pass the information correctly to the next phases of the development process. 
+
+•	Developer: The developer who wants to create, read, change, modify or add new requirements into the existing program, must first consult this document and update the requirements with appropriate manner so as to not destroy the actual meaning of them and pass the information correctly to the next phases of the development process. 
 In this program Developer developed the UI and fetched the data about the existing Contact Names in the system using ContactName class in Android.
-•	Tester: 
-The tester needs this document to validate that the initial requirements of this programs actually corresponds to the executable program correctly.
-•	User:
- The user will perfume the user UAT(User acceptance testing ) and cheek if all desired function exist in application  then he will provide his acceptance that the application working according to requirement 
-4.	 Project Scope
+
+•	Tester: The tester needs this document to validate that the initial requirements of this programs actually corresponds to the executable program correctly.
+
+•	User: The user will perfume the user UAT(User acceptance testing ) and check if all desired function exist in application then he will provide his acceptance that the application working according to requirement 
+
+# Project Scope
 With the continuous development in Science and Technology, mobile is no longer just a device used for communication but a management of contacts platform that provides the ability to choose contact. Choosing the contact , calling ,messaging, add any event in calendar for a person, email, search location of particular address, update, delete,insert formats are done in this application. Present scenario for Contact Manager provide support for some calling , messaging format and recently facilities for providing the subtitles is included in the existing system. 
 
 
