@@ -3,13 +3,15 @@
 # Title of Project : Contact Manager
 
 1.	Purpose 
+
 The purpose of this document is to specify the requirements and preview some elements of the analysis model of the program CONTACT MANAGER APP.
+
 Contact Manager app is a simple application which consists of four programs: 
 •	Contact List Manager.
 •	Utilities.
 •	Contact Activity.
 •	AndroidBuilding Contact Manager Activity.
-•	
+
 a.	ContactManager:
 It is a class named as ContactMangaer.java and this program is written to fetch all the music tracks in the android device.
 
