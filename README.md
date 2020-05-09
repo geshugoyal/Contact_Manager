@@ -81,17 +81,7 @@ e.)	Add Event: This menu item is used to have the reminder service or adding any
 f.)	Delete Contact : This menu item deletes a particular record and then shifts back to the main Contact List Activity.
 
 # Project Screenshots
-![1](https://user-images.githubusercontent.com/63814054/81483757-314e0800-925e-11ea-9002-9c3f97aca2e3.jpg)
-![2](https://user-images.githubusercontent.com/63814054/81483972-96eec400-925f-11ea-94d1-36959ed6e34f.jpg)
-![3](https://user-images.githubusercontent.com/63814054/81483973-99511e00-925f-11ea-8236-9d017a940021.jpg)
-![4](https://user-images.githubusercontent.com/63814054/81483976-9b1ae180-925f-11ea-975b-ffeb71e0df8a.jpg)
-![5](https://user-images.githubusercontent.com/63814054/81483980-a2da8600-925f-11ea-9614-a40fb900f5bc.jpg)
-![6](https://user-images.githubusercontent.com/63814054/81483984-a79f3a00-925f-11ea-8da3-39e427c2dbc4.jpg)
-![7](https://user-images.githubusercontent.com/63814054/81483985-aa9a2a80-925f-11ea-8af8-7a26846abec6.jpg)
-![8](https://user-images.githubusercontent.com/63814054/81483987-ad951b00-925f-11ea-8621-813130c5031d.jpg)
-![9](https://user-images.githubusercontent.com/63814054/81483988-aff77500-925f-11ea-9afc-bc6bcd524df2.jpg)
-![10](https://user-images.githubusercontent.com/63814054/81483989-b259cf00-925f-11ea-8fe8-fdf0d9486d40.jpg)
-![11](https://user-images.githubusercontent.com/63814054/81483992-b685ec80-925f-11ea-8cce-9e922898e308.jpg)
+![1](https://user-images.githubusercontent.com/63814054/81483757-314e0800-925e-11ea-9002-9c3f97aca2e3.jpg) ![2](https://user-images.githubusercontent.com/63814054/81483972-96eec400-925f-11ea-94d1-36959ed6e34f.jpg) ![3](https://user-images.githubusercontent.com/63814054/81483973-99511e00-925f-11ea-8236-9d017a940021.jpg) ![4](https://user-images.githubusercontent.com/63814054/81483976-9b1ae180-925f-11ea-975b-ffeb71e0df8a.jpg) ![5](https://user-images.githubusercontent.com/63814054/81483980-a2da8600-925f-11ea-9614-a40fb900f5bc.jpg) ![6](https://user-images.githubusercontent.com/63814054/81483984-a79f3a00-925f-11ea-8da3-39e427c2dbc4.jpg) ![7](https://user-images.githubusercontent.com/63814054/81483985-aa9a2a80-925f-11ea-8af8-7a26846abec6.jpg) ![8](https://user-images.githubusercontent.com/63814054/81483987-ad951b00-925f-11ea-8621-813130c5031d.jpg) ![9](https://user-images.githubusercontent.com/63814054/81483988-aff77500-925f-11ea-9afc-bc6bcd524df2.jpg) ![10](https://user-images.githubusercontent.com/63814054/81483989-b259cf00-925f-11ea-8fe8-fdf0d9486d40.jpg) ![11](https://user-images.githubusercontent.com/63814054/81483992-b685ec80-925f-11ea-8cce-9e922898e308.jpg)
 
 
 
